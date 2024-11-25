@@ -1,0 +1,6 @@
+@INDUENDUM_HostAddress = http://localhost:5108
+
+GET {{INDUENDUM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
